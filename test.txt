@@ -1,0 +1,5 @@
+≈press I to enter insert mode
+
+:x
+
+
