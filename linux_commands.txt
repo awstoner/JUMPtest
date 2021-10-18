@@ -1,0 +1,13 @@
+LINUX COMMANDS
+------------------
+
+pwd => shows current directory/path
+
+ls => shows list of files/folders in the current directory
+ls -l => "long list" lists details on files/folders
+
+cd => change directory
+
+touch <file_name> => creates a file with that name
+
+
